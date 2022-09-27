@@ -1,6 +1,6 @@
 # Trillo
 
-> ### Pure CSS website to practice advanced CSS/SASS Pure and delve deeper into Flexbox.
+> ### Pure CSS website to practice advanced CSS/SCSS (SASS) Pure and delve deeper into Flexbox.
 
 
 ## Built With
