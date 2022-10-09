@@ -38,11 +38,11 @@
 To get a local copy up and running follow these simple example steps.
 
 ```bash
-git clone git@github.com:Bondok6/Natours.git
+git clone git@github.com:Bondok6/trillo.git
 ```
 
 ```bash
-cd Natours
+cd trillo
 ```
 
 ## Authors
